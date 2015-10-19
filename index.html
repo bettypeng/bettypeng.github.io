@@ -1,2 +1,179 @@
-Hello World
-What's up?
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Didact+Gothic' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Raleway:500' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link href="style.css" rel = "stylesheet" type = 'text/css'>
+</head>
+
+<body>
+	<script src="main.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<div class="container-fluid">
+
+  <div class="section header text-center">
+    <h1 class="name"> BETTY PENG</h1>
+
+    <div class="row">
+      <div class="col-sm-2 col-sm-offset-3">
+        <a href="#section-project"><h2> Projects </h2></a>
+      </div>
+      <div class="col-sm-2">
+        <a href="#section-about"><h2> About </h2></a>
+      </div>
+      <div class="col-sm-2">
+        <a href="#section-contact"><h2> Contact </h2></a>
+      </div>
+    </div>
+  </div>
+
+  <a name="section-project"></a>
+  <div class="section section-project text-center">
+    <h3> PROJECTS </h3>
+
+
+    <div id="myCarousel" class="carousel slide img-responsive">
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+      </ol>
+
+      <div class="carousel-inner">
+        <div class="item active">
+          <!-- Slide 1 -->
+            <img class="carouselImg" src="http://i1027.photobucket.com/albums/y339/Betty_Peng/Screen%20Shot%202015-10-16%20at%2010.28.28%20AM_zpsoppzi9p8.png">
+            <h4>First Aide</h4>
+          <div class="desc">
+            <p> A project under Systers during the Grace Hopper Open Source Code Day. </p>
+            <p>First Aide is an open source app created for Peace Corps volunteers, containing information, resources, and services pertaining to sexual assault. We decided to implement it as a hybrid mobile app powered by Angular and Ionic. I contributed to the front end
+              and helped organize content.</p>
+          </div>
+
+        </div>
+
+
+        <div class="item">
+          <!-- Slide 2 -->
+          <a href="http://bettypeng.github.io/WeatherMix/">
+            <img class="carouselImg" src="http://i59.tinypic.com/eq5qgl.jpg">
+            <h4>WeatherMix</h4>
+          </a>
+          <div class="desc">
+            <p>A solution for all nature-lovers confined to the indoors: Experience the beauty and ambient sounds of nature for study, meditation, or sleep, based on local weather conditions and forecast at your current location.</p>
+            <p>Built using HTML/CSS, jQuery, and the Wunderground API. </p>
+          </div>
+        </div>
+
+        <div class="item">
+          <!-- Slide 3 -->
+            <img class="carouselImg" src="http://i57.tinypic.com/hvc3so.jpg">
+            <h4>Wikipodia</h4>
+          <div class="desc">
+            <p>Quick search engine for easy scanning of Wikipedia entries.</p>
+            <p> Fun experiment with the MediaWiki API.</p>
+          </div>
+        </div>
+
+        <div class="item">
+          <!-- Slide 4 -->
+          
+            <img class="carouselImg" id="pacpic" src="http://i1027.photobucket.com/albums/y339/Betty_Peng/Screen%20Shot%202015-10-17%20at%202.07.53%20PM_zpsrtwbpuj8.png" height="200">
+            <h4>Pacman</h4>
+          
+          <div class="desc">
+            <p>The classic Pacman game, written in Java.</p>
+            <p>Learned how to apply a breadth-first search algorithm.</p>
+          </div>
+        </div>
+
+
+      
+        
+        <div class="item">
+          <!-- Slide 5 -->
+            <img class="carouselImg" src="http://i1027.photobucket.com/albums/y339/Betty_Peng/Screen%20Shot%202015-10-17%20at%202.28.18%20PM_zpsp3h29auq.png">
+            <h4>Drunk Portraits</h4>
+          <div class="desc">
+            <p>A collection of self-portraits and interviews with inebriated Brown students. </p>
+            </p>After a few drinks, there is a shift in the way we navigate the world, in the way we view our past and tell our stories, and in the way we perceive ourselves. This project is all about capturing the movements, visions, and perspectives students have while under the influence.
+            </p>
+
+          </div>
+        </div>
+        
+          <div class="item">
+          <!-- Slide 6 -->
+          <a href="http://www.bpeng.strangesympathies.com/">
+            <img class="carouselImg" src="http://i1027.photobucket.com/albums/y339/Betty_Peng/Screen%20Shot%202015-10-17%20at%202.17.42%20PM_zpsisiwkpxk.png">
+            <h4>Betty's Anatomy</h4>
+          </a>
+          <div class="desc">
+            <p>Digital non-fiction.</p>
+            <p> A collection of stories based on body parts.</p>
+
+          </div>
+        </div>
+        
+       
+
+
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+
+    </div>
+
+    <a name="section-about"></a>
+    <div class="section section-about">
+      <h3 class="text-center"> ABOUT</h3>
+      <div class="row">
+        <div class="bio col-md-4 text-right">
+          <h4> BIO</h4>
+          <p> Betty is an undergraduate student at Brown University double concentrating in Computer Science and English.</p>
+          <p> She loves to code, write, and create.</p>
+          <p> In her spare time, she practices her one-armed handstands.</p>
+        </div>
+
+        <div class="pic col-md-4">
+          <img class="img-responsive" src="https://scontent-iad3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/10246864_10203372057853730_6978937397055773261_n.jpg?oh=f4a6df371decf75c6dde76428a6e3c47&oe=56370642">
+        </div>
+
+        <div class="explore col-md-4 text-left">
+          <h4> EXPLORE</h4>
+          <p><a target="_blank" href="resume.pdf"><img class = "icon" src = "img/resume.png"></a></p>
+          <p><a target="_blank" href="https://github.com/bettypeng"><img class = "icon" src = "img/github.png"></a></p>
+          <p><a target="_blank" href="http://codepen.io/bettypeng/"><img class = "icon" src = "img/codepen.png"></a></p>
+          <p><a target="_blank" href="https://www.linkedin.com/pub/betty-peng/b0/a39/632"><img class = "icon" src = "img/linkedin.png"></a></p>
+        </div>
+      </div>
+    </div>
+
+    <a name="section-contact"></a>
+    <div class="section section-contact">
+      <h3 class="text-center"> CONTACT</h3>
+      <div class="row">
+        <div class="col-md-4">
+        </div>
+        <div class="col-md-4">
+          <p class="text-center">Questions, comments, compliments, concerns?</p>
+          <p class="text-center"> Email: betty_peng@brown.edu</p>
+          <p class="text-center"> Phone: 917-575-6685</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+</html>
