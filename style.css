@@ -14,7 +14,7 @@ body{
 }
 
 #projects{
-	margin: 50px;
+	margin-top: 50px;
 	margin-left: 15%;
 	margin-right: 15%;
 }
@@ -35,13 +35,17 @@ body{
 	font-family: 'Didact Gothic', sans-serif;
 }
 
+#fun p{
+	padding-bottom: 30px;
+}
+
 .icon{
 	width: 70px;
 	padding: 5px;
 }
 
 #about{
-	margin: 50px;
+	margin-top: 50px;
 	font-family: 'Didact Gothic', sans-serif;
 }
 
