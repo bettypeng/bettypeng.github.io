@@ -1,6 +1,11 @@
 body{
-	background-color: #f9f2ec;
+	background-color: #FAF9F5;
 }
+
+img{
+	border-radius: 5%;
+}
+
 
 #name{
 	font-size: 100px;
@@ -11,6 +16,10 @@ body{
 	font-family: 'Lato', sans-serif;
 	font-size: 18px;
 	color: #009999;
+}
+
+#menu a{
+	text-decoration: none;
 }
 
 #projects{
@@ -30,6 +39,7 @@ body{
 	text-decoration: none;
 }
 
+
 #fun{
 	margin-top: 50px;
 	font-family: 'Didact Gothic', sans-serif;
@@ -40,7 +50,7 @@ body{
 }
 
 .icon{
-	width: 70px;
+	width: 50px;
 	padding: 5px;
 }
 
@@ -61,12 +71,21 @@ body{
 	margin-bottom: 30px;
 }
 
-#explore{
-	margin-top: 50px;
+.explore{
+	margin-top: 60px;
+	font-family: 'Raleway', sans-serif;
+	padding-bottom: 5%;
+	font-size: 12px;
 }
 
-#explore h4{
-	padding-bottom: 15px;
+.explore h4{
+	padding-top: 15px;
+}
+
+.explore a{
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+	color:#009999;
 }
 
 .ctlink{
