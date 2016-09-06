@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en" ng-app="bettyApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Betty Peng</title>
+    <link rel="icon" href="img/bp.png">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Raleway|Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="app.css" />
+    <link rel="stylesheet" href="app.animations.css" />
+    <link rel="stylesheet" href="app.about.css" />
+    <link rel="stylesheet" href="app.projects.css" />
+    <script src="angular/angular.min.js"></script>
+    <script src="angular/angular-animate.js"></script>
+    <script src="angular/angular-route.js"></script>
+    <script src="app.module.js"></script>
+    <script src="app.config.js"></script>
+    <script src="about/about.module.js"></script>
+    <script src="about/about.component.js"></script>
+    <script src="play/play.module.js"></script>
+    <script src="play/play.component.js"></script>
+    <script src="projects/projects.module.js"></script>
+    <script src="projects/projects.component.js"></script>
+    <script src="project-detail/project-detail.module.js"></script>
+    <script src="project-detail/project-detail.component.js"></script>
+
+
+  </head>
+  <body>
+    <div id="header">
+      <h1> BETTY PENG </h1>
+      <a href="#!/about">INTRO</a>
+      <a href="#!/projects">TINKERING</a>
+      <a href="about/betty_peng_resume.pdf" target="_blank">RÉSUMÉ</a>
+    </div>
+    <div class="view-container">
+      <div ng-view class="view-frame"></div>
+    </div>
+  </body>
+</html>
