@@ -1,0 +1,11 @@
+{
+    "name": "Infinity",
+    "id": "infinity",
+    "description": "A study tool with no bounds! Write text documents, add images, import PDFs, make drawings, and take photos, videos, and recordings on this infinite workspace. Pen and touch friendly.",
+    "accomplishments": "Built using C#/XAML as my starter project for the Brown Graphics Lab.",
+    "learned": "Designing and building for pen and touch applications, C# and XAML.",
+    "images": [
+        "img/projects/infinity/1.png"
+    ], 
+    "link": ""
+}

@@ -1,0 +1,34 @@
+[
+	{
+		"index": 5,
+		"id": "weather-mix",
+	    "name": "Weather Mix",
+	    "imageUrl": "img/projects/square/weathermix.png",
+	    "snippet": "Ambient music for every storm. A solution for all nature-lovers confined to the indoors: Experience the beauty and ambient sounds of nature for study, meditation, or sleep, based on the weather right outside your window.",
+		"url": "http://bettypeng.github.io/WeatherMix"
+	},
+	{
+		"index": 6,
+		"id": "25-live",
+	    "name": "25Live",
+	    "imageUrl": "img/projects/square/25live.png",
+	    "snippet": "Reimagining Brown University’s 25Live Event and Space Booking Website. Lo-fidelity and high-fidelity prototypes that significantly improve usability and user experience.",
+		"url": "http://bettypeng.github.io/25live"
+	},
+	{
+		"index": 7,
+		"id": "ptc-site",
+	    "name": "PTC Site",
+	    "imageUrl": "img/projects/square/ptcsite.png",
+	    "snippet": "Designing and implementing site for Brown University's Graphics Lab: Pen and Touch Computing Center.",
+		"url": "http://bettypeng.github.io/ptcsite"
+	},
+	{
+		"index": 8,
+		"id": "artbeat-site",
+	    "name": "ArtBeat",
+	    "imageUrl": "img/projects/square/artbeat.png",
+	    "snippet": "Designing and building a website for Brown's art community, showcasing workshops, projects, artists, and upcoming events.",
+		"url": "http://bettypeng.github.io/ArtBeat"	
+	}
+]

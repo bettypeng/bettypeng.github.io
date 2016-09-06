@@ -1,0 +1,18 @@
+{
+    "name": "Enchanted Clock",
+    "id": "enchanted-clock",
+    "description": "In this robotics experiment, we aimed to turn an ordinary item into something extraordinary. Our Brown Enchanted Clock is inspired by the clock in the Weasley house that Harry Potter encounters. Spoons (hands) of the grandfather clock rotate to the location of housemates on campus in real-time.",
+    "accomplishments": "I was responsible for building the iOS mobile app, which allowed for constant location monitoring and also manual user location updates. I also helped set up the Yaler relay service (yaler.net) that we used to communicate between a Python server on the Raspberry Pi and the Arduino Uno controlling the stepper motors.",
+    "learned": "Objective-C, Raspberry Pi, Arduino",
+    "images": [
+        "img/projects/enchanted-clock/1.jpg", 
+        "img/projects/enchanted-clock/2.jpg",
+        "img/projects/enchanted-clock/3.jpg",
+        "img/projects/enchanted-clock/4.jpg",
+        "img/projects/enchanted-clock/5.jpg",
+        "img/projects/enchanted-clock/6.png",
+        "img/projects/enchanted-clock/7.png"
+    ], 
+    "link": "https://bettybots.tumblr.com",
+    "linkname": "Project Blog"
+}

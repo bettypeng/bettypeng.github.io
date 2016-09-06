@@ -1,0 +1,10 @@
+{
+    "name": "Shell",
+    "id": "shell",
+    "description": "UNIX shell implementation in C, created with built-in commands, signal processing, job-control, and I/O redirection.",
+    "learned": "Computer systems programming.",
+    "images": [
+        "img/projects/square/shell.png"
+    ], 
+    "link": ""
+}

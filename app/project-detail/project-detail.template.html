@@ -1,0 +1,21 @@
+<div id="project-detail-wrapper">
+	<div id="main-image-wrapper">
+		<img id="main-image" ng-src="{{$ctrl.mainImageUrl}}" class="project" />
+	</div>
+
+	<h1>{{$ctrl.project.name}}</h1>
+
+	<p>{{$ctrl.project.description}}</p>
+	<p>{{$ctrl.project.accomplishments}}</p>
+	<p>Skills: {{$ctrl.project.learned}}</p>
+	<a ng-hide="$ctrl.project.link == ''" href="{{$ctrl.project.link}}">{{$ctrl.project.linkname}}</a>
+
+
+	<ul ng-show="$ctrl.project.images.length > 1" class="project-thumbs">
+	  <li ng-repeat="img in $ctrl.project.images">
+	    <img class="images" ng-src="{{img}}" ng-click="$ctrl.setImage(img)"/>
+	  </li>
+	</ul>
+
+</div>
+<ng-include src="'footer/footer.template.html'"></ng-include>

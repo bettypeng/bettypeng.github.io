@@ -1,0 +1,20 @@
+{
+    "name": "Blue Room Tycoon",
+    "id": "blue-room-tycoon",
+    "description": "The Blue Room Tycoon is a game that combines business strategy, multi-tasking and time-management skills into an entertaining gaming experience. Players take the role of the manager of Brown University’s beloved Blue Room cafe, tasked with the heavy duty of keeping students happy as they navigate the plethora of Blue Room options, expanding the Blue Room as it grows more popular (or perhaps, unpopular), and trying to keep the eatery from folding under the ever-growing demands of the student population. Blue Room Tycoon is built with Phaser, JS, and Java.",
+    "accomplishments": "I was responsible for implementing the entire front-end and UI of the game. This included parsing information from the backend, handling events, passing data, designing and implementing the UI, and creating game graphics.",
+    "learned": "Phaser, game design, game development, user testing, Adobe Photoshop",
+    "images": [
+        "img/projects/brt/0.png",
+        "img/projects/brt/1.png",
+        "img/projects/brt/2.png",
+        "img/projects/brt/3.png",
+        "img/projects/brt/4.png",
+        "img/projects/brt/5.png",
+        "img/projects/brt/6.png",
+        "img/projects/brt/7.png",
+        "img/projects/brt/8.png"
+    ], 
+    "link": "https://github.com/bettypeng/BlueRoomTycoon",
+    "linkname": "Github"
+}
