@@ -2,7 +2,7 @@
     "name": "Maps",
     "id": "maps",
     "description": "Your go-to app when Google Maps fails. Features include a bird’s eye view of the streets that can be zoomed and panned, autocompleting street search, the shortest path to and from your desired destination, and live traffic updates.",
-    "accomplishments": "Implemented a prefix tree, nearest-neighbor search, and A* path finding algorithms, as well as the front-end and UI.",
+    "accomplishments": "Implemented a prefix tree, nearest-neighbor search, and A* path finding algorithms, as well as the front-end and UI. Code available upon request.",
     "learned": "SQL querying, caching, Java concurrency, complex web app design.",
     "images": [
         "img/projects/square/maps.png"
