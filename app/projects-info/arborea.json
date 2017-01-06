@@ -1,0 +1,15 @@
+{
+    "name": "arborea",
+    "id": "arborea",
+    "description": "A forest experience built for viewing and exploring with the HTC Vive or on the desktop. Users can control wind direction and new tree growth through the controllers or keyboard. Uses L-systems, procedurally generated terrain and particle systems, and skybox texturing.",
+    "learned": " C++, OpenGL, OpenVR, graphics pipeline, virtual reality application development",
+    "images": [
+        "img/projects/arborea/1.png",
+        "img/projects/arborea/2.png",
+        "img/projects/arborea/3.png",
+        "img/projects/arborea/4.png",
+        "img/projects/arborea/5.png",
+        "img/projects/arborea/6.png"
+    ], 
+    "link": "",
+}
