@@ -45,12 +45,12 @@ a:active {
 
 }
 
-@media (max-width: 420px) {
+/*@media (max-width: 420px) {
 	#header {
 		display: flex;
 		flex-direction: column;
 	}
-}
+}*/
 
 @media (max-width: 750px) and (min-width: 301px){
 	#header h1 {
