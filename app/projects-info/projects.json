@@ -6,43 +6,57 @@
 	    "imageUrl": "img/projects/square/arborea.png",
 	    "snippet": "An immersive virtual reality forest experience made with l-systems, gpu particles, and procedural terrain."
 	},
-	{
+		{
 		"index": 1,
+		"id": "path",
+	    "name": "Path",
+	    "imageUrl": "img/projects/square/path.png",
+	    "snippet": "Implemented pathtracing, the Monte Carlo rendering algorithm proposed by Kajiya in his 1986 paper The Rendering Equation."
+	},
+		{
+		"index": 2,
 		"id": "ray",
 	    "name": "Raytracer",
 	    "imageUrl": "img/projects/square/ray.png",
 	    "snippet": "C++ raytracer with Phong and specular lighting, reflections, shadows, and texture mapping."
 	},
 	{
-		"index": 2,
+		"index": 3,
+		"id": "pipes",
+	    "name": "Pipes",
+	    "imageUrl": "img/projects/square/pipes.png",
+	    "snippet": "A random 3D pipe labyrinth generator. Mimics the famous pipe screensaver. Built with C++ and G3D."
+	},
+	{
+		"index": 4,
 		"id": "blue-room-tycoon",
 	    "name": "Blue Room Tycoon",
 	    "imageUrl": "img/projects/square/blueroomtycoon.png",
 	    "snippet": "A HTML5 business strategy and time management game. Players must juggle multiple responsibilities and make business decisions as they manage the popular Brown University eatery."
 	},
 	{
-		"index": 3,
+		"index": 5,
 		"id": "enchanted-clock",
 	    "name": "Enchanted Clock",
 	    "imageUrl": "img/projects/square/clock.png",
 	    "snippet": "A Harry Potter inspired, arduino-driven grandfather clock with hands that keep track of your housemates around campus."
 	},
 	{
-		"index": 4,
+		"index": 6,
 		"id": "maps",
 	    "name": "Maps",
 	    "imageUrl": "img/projects/square/maps.png",
 	    "snippet": "A map application for Rhode Island, with zoomable and pannable street view, street search, path finding, and traffic information."
 	},
 	{
-		"index": 5,
+		"index": 7,
 		"id": "infinity",
 	    "name": "Infinity",
 	    "imageUrl": "img/projects/square/infinity.png",
 	    "snippet": "Write text documents, add images, import PDFs, make drawings, and take photos, videos, and recordings on this infinite, pen-and-touch friendly workspace."
 	},
 	{
-		"index": 6,
+		"index": 8,
 		"id": "shell",
 	    "name": "Shell",
 	    "imageUrl": "img/projects/square/shell.png",

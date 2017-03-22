@@ -1,0 +1,13 @@
+{
+    "name": "path",
+    "id": "path",
+    "description": "Implemented pathtracing, the Monte Carlo rendering algorithm proposed by Kajiya in his 1986 paper The Rendering Equation.",
+    "learned": "C++, G3D, rendering equations, path tracing case study",
+    "images": [
+        "img/projects/path/1.png",
+        "img/projects/path/2.png",
+        "img/projects/path/3.png",
+        "img/projects/path/4.png"
+    ], 
+    "link": ""
+}
