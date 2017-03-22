@@ -6,26 +6,26 @@
 	    "imageUrl": "img/projects/square/arborea.png",
 	    "snippet": "An immersive virtual reality forest experience made with l-systems, gpu particles, and procedural terrain."
 	},
-		{
+	{
 		"index": 1,
+		"id": "pipes",
+	    "name": "Pipes",
+	    "imageUrl": "img/projects/square/pipes.png",
+	    "snippet": "A 3D pipe labyrinth generator. Inspired by the famous Windows screensaver. Built with C++ and G3D."
+	},
+	{
+		"index": 2,
 		"id": "path",
 	    "name": "Path",
 	    "imageUrl": "img/projects/square/path.png",
-	    "snippet": "Implemented pathtracing, the Monte Carlo rendering algorithm proposed by Kajiya in his 1986 paper The Rendering Equation."
+	    "snippet": "Implemented a path tracer, based on the Monte Carlo rendering algorithm proposed by Kajiya in his 1986 paper The Rendering Equation."
 	},
 		{
-		"index": 2,
+		"index": 3,
 		"id": "ray",
 	    "name": "Raytracer",
 	    "imageUrl": "img/projects/square/ray.png",
 	    "snippet": "C++ raytracer with Phong and specular lighting, reflections, shadows, and texture mapping."
-	},
-	{
-		"index": 3,
-		"id": "pipes",
-	    "name": "Pipes",
-	    "imageUrl": "img/projects/square/pipes.png",
-	    "snippet": "A random 3D pipe labyrinth generator. Mimics the famous pipe screensaver. Built with C++ and G3D."
 	},
 	{
 		"index": 4,
