@@ -4,6 +4,10 @@
     "description": "Geometric modeler and recursive raytracer with toggle buttons for specular and directional lighting, reflections, shadows, and texture mapping. Images created from scene files. Code available upon request.",
     "learned": "C++, OpenGL, raytracing and other graphics concepts and algorithms",
     "images": [
-        "img/projects/square/ray.png"
+        "img/projects/ray/1.png",
+        "img/projects/ray/2.png",
+        "img/projects/ray/3.png",
+        "img/projects/ray/4.png",
+        "img/projects/ray/5.png"
     ]
 }
