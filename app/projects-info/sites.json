@@ -1,6 +1,6 @@
 [
 	{
-		"index": 7,
+		"index": 10,
 		"id": "weather-mix",
 	    "name": "Weather Mix",
 	    "imageUrl": "img/projects/square/weathermix.png",
@@ -8,7 +8,7 @@
 		"url": "http://bettypeng.github.io/WeatherMix"
 	},
 	{
-		"index": 8,
+		"index": 11,
 		"id": "25-live",
 	    "name": "25Live",
 	    "imageUrl": "img/projects/square/25live.png",
@@ -16,7 +16,7 @@
 		"url": "http://bettypeng.github.io/25live"
 	},
 	{
-		"index": 9,
+		"index": 12,
 		"id": "ptc-site",
 	    "name": "PTC Site",
 	    "imageUrl": "img/projects/square/ptcsite.png",
@@ -24,7 +24,7 @@
 		"url": "http://bettypeng.github.io/ptcsite"
 	},
 	{
-		"index": 10,
+		"index": 13,
 		"id": "artbeat-site",
 	    "name": "ArtBeat",
 	    "imageUrl": "img/projects/square/artbeat.png",

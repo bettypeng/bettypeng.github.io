@@ -1,62 +1,69 @@
 [
 	{
 		"index": 0,
+		"id": "synthesis",
+	    "name": "Synthesis",
+	    "imageUrl": "img/projects/square/synthesis.png",
+	    "snippet": "A system for easily and seamlessly incorporating virtual objects realistically into pre-existing photographs."
+	},
+	{
+		"index": 1,
 		"id": "arborea",
 	    "name": "arborea",
 	    "imageUrl": "img/projects/square/arborea.png",
 	    "snippet": "An immersive virtual reality forest experience made with l-systems, gpu particles, and procedural terrain."
 	},
 	{
-		"index": 1,
+		"index": 2,
 		"id": "pipes",
 	    "name": "Pipes",
 	    "imageUrl": "img/projects/square/pipes.png",
 	    "snippet": "A 3D pipe labyrinth generator. Inspired by the famous Windows screensaver. Built with C++ and G3D."
 	},
 	{
-		"index": 2,
+		"index": 3,
 		"id": "path",
 	    "name": "Path",
 	    "imageUrl": "img/projects/square/path.png",
 	    "snippet": "Implemented a path tracer, based on the Monte Carlo rendering algorithm proposed by Kajiya in his 1986 paper The Rendering Equation."
 	},
 		{
-		"index": 3,
+		"index": 4,
 		"id": "ray",
 	    "name": "Raytracer",
 	    "imageUrl": "img/projects/square/ray.png",
 	    "snippet": "C++ raytracer with Phong and specular lighting, reflections, shadows, and texture mapping."
 	},
 	{
-		"index": 4,
+		"index": 5,
 		"id": "blue-room-tycoon",
 	    "name": "Blue Room Tycoon",
 	    "imageUrl": "img/projects/square/blueroomtycoon.png",
 	    "snippet": "A HTML5 business strategy and time management game. Players must juggle multiple responsibilities and make business decisions as they manage the popular Brown University eatery."
 	},
 	{
-		"index": 5,
+		"index": 6,
 		"id": "enchanted-clock",
 	    "name": "Enchanted Clock",
 	    "imageUrl": "img/projects/square/clock.png",
 	    "snippet": "A Harry Potter inspired, arduino-driven grandfather clock with hands that keep track of your housemates around campus."
 	},
 	{
-		"index": 6,
+		"index": 7,
 		"id": "maps",
 	    "name": "Maps",
 	    "imageUrl": "img/projects/square/maps.png",
 	    "snippet": "A map application for Rhode Island, with zoomable and pannable street view, street search, path finding, and traffic information."
 	},
 	{
-		"index": 7,
+		"index": 8,
 		"id": "infinity",
 	    "name": "Infinity",
 	    "imageUrl": "img/projects/square/infinity.png",
 	    "snippet": "Write text documents, add images, import PDFs, make drawings, and take photos, videos, and recordings on this infinite, pen-and-touch friendly workspace."
 	},
 	{
-		"index": 8,
+		"index": 9,
 		"id": "shell",
 	    "name": "Shell",
 	    "imageUrl": "img/projects/square/shell.png",

@@ -1,7 +1,7 @@
 {
     "name": "Pipes",
     "id": "pipes",
-    "description": "A random 3D pipe labyrinth generator. Constructed with watertight fitted mesh objects (cylinder pipes and elbow joints) with no exposed back faces. Pipes grow until a dead end, at which a new pipe of a different color begins to generate at a free point. Includes user interface for maze length, width, height, and tortuosity. ",
+    "description": "A random 3D pipe labyrinth generator. Constructed with watertight fitted mesh objects (cylinder pipes and elbow joints) with no exposed back faces. Pipes grow until a dead end, at which a new pipe of a different color begins to generate at a free point. Includes user interface for maze length, width, height, and tortuosity. Code available upon request. ",
     "learned": "C++, G3D, mesh algorithms, 3D maze algorithms, design",
     "images": [
         "img/projects/pipes/1.jpg",
